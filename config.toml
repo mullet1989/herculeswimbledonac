@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "mullet1989.github.io/herculeswimbledonac/"
 title = "Hercules Wimbledon AC"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [Author]
     name = "Benjamin Toomer"
-    bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+    bio = "I am a runner"
     avatar = "img/avatar.png"
 
 
