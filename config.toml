@@ -1,4 +1,4 @@
-baseurl = "herculeswimbledonac/"
+baseurl = "/"
 title = "Hercules Wimbledon AC"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -6,12 +6,13 @@ theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 publishDir = "docs"
+sectionPagesMenu = "main"
 
 
 [Author]
     name = "Benjamin Toomer"
     bio = "I am a runner"
-    avatar = "img/avatar.png"
+    avatar = "img/avatar.jpg"
 
 
 [Params]
@@ -41,3 +42,12 @@ publishDir = "docs"
     social_linkedin = "username"
     #social_github = "username"
     social_email = "info@herculeswimbledonac.org.uk"
+
+[[menu.main]]
+    name = "about hugo"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+[[menu.main]]
+    name = "getting started"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
