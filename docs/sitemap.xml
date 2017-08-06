@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mullet1989.github.io/herculeswimbledonac/news/2017-01-01/</loc>
+    <lastmod>2017-08-03T19:31:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mullet1989.github.io/herculeswimbledonac/results/surrey-road-relays/</loc>
+    <lastmod>2017-08-03T19:31:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mullet1989.github.io/herculeswimbledonac/posts/we-just-became-the-best-team-in-surrey/</loc>
+    <lastmod>2017-08-03T19:31:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mullet1989.github.io/herculeswimbledonac/results/night-5k-pbs-2017/</loc>
     <lastmod>2017-08-03T19:31:10+01:00</lastmod>
   </url>
   
@@ -24,6 +39,18 @@
   
   <url>
     <loc>https://mullet1989.github.io/herculeswimbledonac/</loc>
+    <lastmod>2017-08-03T19:31:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mullet1989.github.io/herculeswimbledonac/news/</loc>
+    <lastmod>2017-08-03T19:31:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mullet1989.github.io/herculeswimbledonac/results/</loc>
     <lastmod>2017-08-03T19:31:10+01:00</lastmod>
     <priority>0</priority>
   </url>

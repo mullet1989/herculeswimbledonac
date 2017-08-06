@@ -5,3 +5,4 @@ draft: false
 ---
 ## Hello and welcome to the new site
 
+This is a demonstration of the new Hercules Wimbledon AC Website

@@ -16,7 +16,7 @@ sectionPagesMenu = "main"
 
 
 [Params]
-    baseurl = "herculeswimbledonac"
+    baseurl = "herculeswimbledonac/"
     subtitle = "We are the best team in Surrey" # Subtitle of your site
     description = "Homepage of Hercules Wimbledon AC" # Description of your site
     opengraph = true
@@ -24,7 +24,7 @@ sectionPagesMenu = "main"
     leftsidebar = false # Move sidebar to the left side if true
     authorbox = true
     post_navigation = true
-    postSections = ["posts"] # the section pages to show on home page and the "Recent articles" widget
+    postSections = ["posts", "news"] # the section pages to show on home page and the "Recent articles" widget
     #postSections = ["blog", "news"] # alternative that shows more than one section's pages
     #dateformat = "2006-01-02" # change the format of dates
 
@@ -38,17 +38,21 @@ sectionPagesMenu = "main"
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
     # Enable "Social" widget, if any of "social_*" set a value
-    social_facebook = "username"
-    social_twitter = "username"
-    social_linkedin = "username"
-    #social_github = "username"
+    social_facebook = "HerculesWimbledon"
+    social_twitter = "HWimbledon"
+    social_linkedin = ""
+    #social_github = ""
     social_email = "info@herculeswimbledonac.org.uk"
 
 [[menu.main]]
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
+    name = "news"
+    pre = "<i class='fa fa-newspaper-o'></i>"
+    url = "/news"
 [[menu.main]]
-    name = "getting started"
+    name = "posts"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/posts"
+[[menu.main]]
+    name = "results"
     pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
+    url = "/results"

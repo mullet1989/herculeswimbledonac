@@ -1,1 +1,1 @@
-## Hey, you are at the index
+## Most recent updates from Hercules Wimbledon
