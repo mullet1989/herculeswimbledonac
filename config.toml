@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://mullet1989.github.io/herculeswimbledonac/"
 title = "Hercules Wimbledon AC"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
