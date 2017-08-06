@@ -6,7 +6,7 @@
     <description>Recent content on Hercules Wimbledon AC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2017 19:31:10 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mullet1989.github.io/herculeswimbledonac/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,14 @@
     <item>
       <title>Dwayne Cowan is Boss</title>
       <link>https://mullet1989.github.io/herculeswimbledonac/news/2017-01-01/</link>
-      <pubDate>Thu, 03 Aug 2017 19:31:10 +0100</pubDate>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://mullet1989.github.io/herculeswimbledonac/news/2017-01-01/</guid>
-      <description> He is the BOSSSS  </description>
-    </item>
-    
-    <item>
-      <title>Surrey Road Relays</title>
-      <link>https://mullet1989.github.io/herculeswimbledonac/results/surrey-road-relays/</link>
-      <pubDate>Thu, 03 Aug 2017 19:31:10 +0100</pubDate>
-      
-      <guid>https://mullet1989.github.io/herculeswimbledonac/results/surrey-road-relays/</guid>
-      <description>This is the header We had a great time
-the race was super fast and Eileen Brandley won the race</description>
+      <description>&lt;h2 id=&#34;he-is-the-bossss&#34;&gt;He is the BOSSSS&lt;/h2&gt;
+
+&lt;p&gt;🌶️ Dwayne Cowan just went out in the semi-finals :-( 🌶️&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,7 +40,18 @@ the race was super fast and Eileen Brandley won the race</description>
       <pubDate>Thu, 03 Aug 2017 19:31:10 +0100</pubDate>
       
       <guid>https://mullet1989.github.io/herculeswimbledonac/results/night-5k-pbs-2017/</guid>
-      <description> Here are our winners  Eileen MF Brandley Benjamin Toomer   James Hoad 🐍  </description>
+      <description>&lt;h3 id=&#34;here-are-our-winners&#34;&gt;Here are our winners&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eileen MF Brandley&lt;/li&gt;
+&lt;li&gt;Benjamin Toomer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;James Hoad 🐍&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -56,6 +61,17 @@ the race was super fast and Eileen Brandley won the race</description>
       
       <guid>https://mullet1989.github.io/herculeswimbledonac/posts/welcome-to-new-site/</guid>
       <description>Hello and welcome to the new site This is a demonstration of the new Hercules Wimbledon AC Website</description>
+    </item>
+    
+    <item>
+      <title>Surrey Road Relays</title>
+      <link>https://mullet1989.github.io/herculeswimbledonac/results/surrey-road-relays/</link>
+      <pubDate>Wed, 03 Jun 2015 19:31:10 +0100</pubDate>
+      
+      <guid>https://mullet1989.github.io/herculeswimbledonac/results/surrey-road-relays/</guid>
+      <description>&lt;p&gt;&lt;em&gt;the race was super fast and &lt;strong&gt;Eileen Brandley&lt;/strong&gt; won the race&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

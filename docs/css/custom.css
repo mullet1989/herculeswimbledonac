@@ -1,0 +1,17 @@
+	.menu {
+	    border-bottom: 5px solid #F4ED16;
+	    min-height: 42px;
+	}
+
+	.authorbox {
+	    border-top: 1px solid #F4ED16;
+	    border-bottom: 1px solid #F4ED16;
+	}
+
+	.widget__title {
+	    border-bottom: 3px solid #F4ED16;
+	}
+
+	.logo__tagline {
+	    border-top: 1px solid #F4ED16;
+	}
