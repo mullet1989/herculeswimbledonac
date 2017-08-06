@@ -6,5 +6,5 @@ draft: false
 
 
 props to everyone that ran for the team
-![mainimage](/img/main.png "we are the best team in surrey")
 
+{{< img src="/img/main.png" title="We are the best!" >}}

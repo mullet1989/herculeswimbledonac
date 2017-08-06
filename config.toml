@@ -16,6 +16,7 @@ sectionPagesMenu = "main"
 
 
 [Params]
+    baseurl = "herculeswimbledonac"
     subtitle = "We are the best team in Surrey" # Subtitle of your site
     description = "Homepage of Hercules Wimbledon AC" # Description of your site
     opengraph = true
